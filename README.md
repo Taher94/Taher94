@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Taher94
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning cpp language beside my medical learning
-- 💞️ I’m looking to collaborate on any thing i can i'll be with you
 - 📫 How to reach me .. in my Gmail : taherabdelkader94@gmail.com or t.taher1@domazhermedicine.edu.eg
 
 <!---
